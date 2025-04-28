@@ -53,4 +53,4 @@ The Titanic dataset reveals interesting patterns:
 Clone this repository and explore the Jupyter Notebook for step-by-step analysis. The PDF contains all major insights and findings.
 
 ## Author:
-[Saurabh](https://github.com/Saurabh)
+[Saurabh](https://github.com/SaurabhWalde)
